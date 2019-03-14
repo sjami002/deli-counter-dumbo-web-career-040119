@@ -12,6 +12,7 @@ def line(katz_deli)
       number += 1
     end
     puts "The line is currently #{queue.join(", ")}"
+  end
 end
 
 def take_a_number(katz_deli, name)

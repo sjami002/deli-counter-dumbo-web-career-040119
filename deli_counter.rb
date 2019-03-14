@@ -6,3 +6,5 @@ def line(people)
     puts "there are people in line"
   else
     puts "there is nobody in line"
+  end
+end

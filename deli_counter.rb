@@ -5,6 +5,6 @@ def line(people)
   if katz_deli > 0
     puts "there are people in line"
   else
-    puts "there is nobody in line"
+    puts "The line is currently empty."
   end
 end
